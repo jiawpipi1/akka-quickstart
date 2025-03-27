@@ -12,7 +12,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 //
 
-public class AkkaQuickstart {
+public class AkkaQuickstart { //test
 
  //#printer-messages
   static public class ProcessName {
